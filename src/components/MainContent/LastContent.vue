@@ -1,0 +1,34 @@
+<template>
+    <div class="m-0 flex justify-center items-center" style="background: linear-gradient(to bottom, #FFC9CD 0%, #FC9EE0 50%, #FC9EE0 100%); height: 240vh;">
+        <div class="w-[80%] h-[82%] bg-white flex justify-center items-center mt-5 scale-90"data-aos="fade-right">
+            <div class="relative w-[93%] h-[90%] border-[6px] border-black">
+                <div class="absolute right-[-130px] top-[-90px] rotate-45">
+                    <img src="/assets/main_content/assets/helloKittyIcon-bg.png" class="w-52" alt="">
+                </div>
+                <div class="px-10 mt-10">
+                    <p class="text-center junge-regular text-3xl">Penutup</p>
+                    <hr class="border-[2px] border-black mt-5">
+                </div>
+                <div class=" mx-10 p-3 h-[76%] mt-2 junge-regular text-center">
+                    <p>Selamat ulang tahun, sayangku Wanda! Hari ini adalah hari yang sangat spesial, hari di mana dunia diberkati dengan kehadiranmu. Upi sangat bersyukur bisa mengenalmu dan memiliki kesempatan untuk menjadi bagian dalam hidupmu. Di setiap tahapan kehidupan ini, kamu selalu menjadi sosok yang istimewa, dan Upi berdoa agar di ulang tahun ini, kamu semakin diberkati dengan kebahagiaan, kesehatan, dan segala sesuatu yang terbaik di dunia ini. Wanda, Upi ingin mengucapkan terima kasih karena kamu telah menjadi sosok yang luar biasa. Upi tahu perjalanan hidup kita tidak selalu mudah, namun setiap langkah yang kita lalui bersama membuatku semakin yakin bahwa kamu adalah orang yang sangat istimewa. Upi berharap di hari ulang tahunmu ini, kamu bisa menjadi pribadi yang lebih baik, lebih kuat, dan lebih bahagia. Upi percaya bahwa kamu memiliki kemampuan untuk menghadapi segala tantangan yang ada di depanmu, dan Upi akan selalu ada di sisimu untuk mendukungmu. Semoga Allah melimpahkan rezeki yang berlimpah kepadamu, memberikan umur panjang yang penuh keberkahan, dan menjadikanmu anak yang salehah. Dalam setiap doaku, Upi selalu memohon kepada Allah agar Dia selalu menjaga dan melindungimu. Upi yakin, dengan segala kebaikan dan keikhlasan hatimu, Allah akan selalu memberikan jalan terbaik untukmu. Ingatlah, setiap tantangan yang kamu hadapi adalah bagian dari rencana-Nya untuk menjadikanmu lebih kuat dan lebih dewasa. Upi juga ingin meminta maaf, sayangku. Mungkin website ini tidak sebagus apa yang kamu harapkan. Upi sadar, desainnya mungkin terlihat sederhana atau bahkan kurang menarik. Namun, percayalah, setiap piksel, setiap baris kode yang Upi tulis, semuanya Upi lakukan dengan penuh cinta. Website ini adalah bentuk kecil dari usahaku untuk membuatmu tersenyum di hari istimewamu. Upi berharap, meskipun sederhana, website ini bisa menjadi kenangan indah untukmu. Ketika kamu menjelajahi website ini, mungkin kamu akan menemukan hal-hal yang terasa kurang sempurna. Untuk itu, Upi ingin meminta maaf, Wanda. Maafkan Upi jika ada yang kurang atau tidak sesuai dengan harapanmu. Upi hanya ingin memberikan sesuatu yang spesial untukmu di hari ulang tahunmu ini. Upi berharap kamu bisa melihat niat dan usaha di balik semuanya. Upi hanya ingin melihat senyummu, karena senyummu adalah kebahagiaanku. Terima kasih, sayangku, karena telah meluangkan waktu untuk membuka website ini. Meskipun desainnya mungkin tidak sebaik apa yang kamu harapkan, Upi berharap kamu bisa merasakan betapa istimewanya kamu bagiku. Setiap detik yang Upi habiskan untuk membuat website ini, Upi lakukan dengan penuh cinta dan perhatian. Upi ingin kamu tahu bahwa kamu adalah sumber inspirasi bagiku, dan Upi akan selalu berusaha untuk membuatmu bahagia. Wanda, Upi ingin mengingatkanmu betapa berharganya dirimu. Kamu adalah cahaya dalam hidupku, dan Upi bersyukur setiap hari karena kehadiranmu. Di hari ulang tahunmu ini, Upi ingin kamu tahu bahwa Upi mencintaimu dengan sepenuh hatiku. Upi ingin melihat wanda bahagia, sukses, dan terus berkembang menjadi pribadi yang lebih baik. Tidak ada yang lebih penting bagiku selain kebahagiaanmu. Selamat ulang tahun, Wanda! Semoga semua impian dan harapanmu bisa terwujud. Upi tahu kamu memiliki mimpi-mimpi besar, dan Upi percaya kamu memiliki kemampuan untuk mencapainya. Upi akan selalu ada di sisimu untuk mendukungmu, memberikan semangat, dan menemanimu dalam setiap langkah perjalananmu. Ingatlah, kamu tidak pernah sendirian. Upi akan selalu ada untukmu, apa pun yang terjadi. Hari ini adalah hari yang spesial, bukan hanya untukmu, tetapi juga untukku. Upi merasa sangat beruntung bisa merayakan ulang tahunmu. Upi berharap kita bisa terus bersama, melalui suka dan duka, dan membangun kenangan indah bersama. Kamu adalah hadiah terindah yang pernah Upi terima, dan Upi bersyukur setiap hari karena kehadiranmu. Semoga di hari ulang tahunmu ini, kamu merasa dikelilingi oleh cinta dan kebahagiaan. Upi berharap setiap momen di hari ini dipenuhi dengan tawa, senyuman, dan kehangatan. Kamu pantas mendapatkan yang terbaik, Wanda, karena kamu adalah pribadi yang luar biasa. Terima kasih telah menjadi dirimu sendiri dan membuat hidupku lebih berwarna. Wanda, Upi ingin kamu tahu bahwa Upi selalu percaya pada wanda. Upi percaya pada kemampuan wanda, kekuatanmu, dan hatimu yang baik. Jangan pernah meragukan dirimu sendiri, karena kamu adalah orang yang istimewa. Upi akan selalu mendukungmu, tidak peduli apa pun yang terjadi. Kamu adalah bagian penting dalam hidupku, dan Upi ingin kamu tahu betapa berharganya dirimu bagiku. Sekali lagi, selamat ulang tahun, sayangku! Semoga di tahun ini, kamu diberikan banyak kebahagiaan, kesuksesan, dan keberkahan. Upi mencintaimu lebih dari yang bisa Upi ungkapkan dengan kata-kata. Terima kasih telah menjadi bagian dari hidupku dan memberikan begitu banyak kebahagiaan. Upi berharap kita bisa terus bersama, melalui setiap langkah perjalanan hidup ini. Aku mencintaimu, Wanda, dan aku selalu ada untukmu. </p>
+                </div>
+                <h3 class="text-center text-3xl relative bottom-0 mt-14 junge-regular">See you in next year baby !</h3>
+                <p class="text-center italianno-regular text-3xl relative bottom-0 mt-14">~ Lutfi Agisna ~</p>
+            </div>
+        </div>
+    </div>
+</template>
+<style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Iceland&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Italianno&family=Junge&family=Kaisei+Decol&family=Kaisei+Opti&family=KoHo:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Konkhmer+Sleokchher&family=Koulen&family=Linden+Hill:ital@0;1&display=swap');
+.junge-regular {
+  font-family: "Junge", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.italianno-regular {
+  font-family: "Italianno", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+</style>
