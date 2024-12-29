@@ -43,11 +43,11 @@
                                 <div v-else-if="page === 1" class="p-2">
                                     <p class="text-5xl ml-3">TUTORIAL:</p>
                                     <ol class="list-decimal ml-14">
-                                        <li class="text-3xl">klik analog untuk memilih jawaban</li>
-                                        <li class="text-3xl">Untuk pindah soal, klik kanan atau kiri dua kali</li>
-                                        <li class="text-3xl">klik analog yang ada di kiri untuk memilih jawaban </li>
-                                        <li class="text-3xl">klik tombol yang ada di kanan untuk memilih jawaban yang sudah dipilih </li>
-                                        <li class="text-3xl">Pilih Tombol "NEXT" Untuk lanjut ke soal selanjutnya</li>
+                                        <li class="text-2xl">klik analog untuk memilih jawaban</li>
+                                        <li class="text-2xl">Untuk pindah soal, klik kanan atau kiri dua kali</li>
+                                        <li class="text-2xl">klik analog yang ada di kiri untuk memilih jawaban </li>
+                                        <li class="text-2xl">klik tombol yang ada di kanan untuk memilih jawaban yang sudah dipilih </li>
+                                        <li class="text-2xl">Pilih Tombol "NEXT" Untuk lanjut ke soal selanjutnya</li>
                                     </ol>
                                     <!-- <p class="text-center text-2xl">NEXT >></p> -->
                                 </div>
@@ -68,19 +68,19 @@
                                     </div>
                                     <div class=" flex flex-col gap-4 gap-y-6 ml-3 w-[380px] h-full mt-3">
                                         <div class="flex justify-between gap-2">
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnA" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Ayam Asam Manis</button>
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnB" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Telur Pontianak</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnA" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Ayam Asam Manis</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnB" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Telur Pontianak</button>
                                         </div>
                                         <div class="flex justify-between gap-2">
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnC" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Ayam Bakar</button>
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnD" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Mie indommie Goreng</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnC" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Ayam Bakar</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnD" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Mie indommie Goreng</button>
                                         </div>
                                         <div class="flex justify-between gap-2">
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnE" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Telur Rebus</button>
-                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-lg w-[50%]" ref="jwbnF" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Gorengan</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnE" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Telur Rebus</button>
+                                            <button class="bg-[#FF53DA] text-white p-2 rounded-lg text-md w-[50%]" ref="jwbnF" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">Gorengan</button>
                                         </div>
                                         <button class="bg-[#FF00C8] text-white mt-[-5px] rounded-lg h-[35px] text-2xl" ref="submitBtn" style=" box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.4);">NEXT</button>
-                                        <p class="text-center text-3xl mt-[-15px]">{{ this.page - 2 }}/10</p>
+                                        <p class="text-center text-3xl mt-[-10px]">{{ this.page - 2 }}/10</p>
                                     </div>
                                 </div>
                                

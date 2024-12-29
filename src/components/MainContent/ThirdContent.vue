@@ -3,7 +3,7 @@
     <div class="grid-background ">
       <div class="relative top-10">
         <h1 class="text-6xl text-center" data-aos="fade-down">GALLERY</h1>
-        <div class="bg-white m-auto mt-3 px-5 py-5 gap-[1.5px]" id="img-container" style="width: 90%; height: 105vh;" data-aos="flip-up">
+        <div class="bg-white m-auto mt-3 px-5 py-5 gap-[1.5px]" id="img-container" style="width: 90%; height: 113vh;" data-aos="flip-up">
           <div class="flex items-start gap-[1.5px]">
             <div style="width: 40.8%; min-width: 300px;">
               <div id="item-1" class=" bg-gray-200 overflow-hidden " style="height: 150px;">
